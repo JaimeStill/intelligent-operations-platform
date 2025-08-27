@@ -2,7 +2,11 @@
 
 The Intelligent Operations Platform represents a fundamental shift in how we build and deploy operational systems. By clearly separating deterministic processing from non-deterministic intelligence, the platform enables organizations to create hybrid systems that leverage traditional computing's reliability and predictability alongside AI's flexibility and creativity. This architecture embraces modularity at every level - from individual components that exist as packages, binaries, and containers, to the separation of concerns between user-facing interfaces and system internals. The platform's design philosophy centers on transparency, efficiency, and adaptability, ensuring that computational resources are allocated appropriately, that AI capabilities are reserved for tasks requiring genuine intelligence, and that all components can evolve independently while maintaining clear architectural boundaries.
 
-> See [Development Modernization](./modernization.md) for progress building the foundation for this platform. See [Intelligent Development](./intelligent-development.md) for my philosophy on AI-augmented development.
+## Repository Links
+
+- [Development Modernization](./PROJECT.md): track progress building the foundation for this platform.
+- [Intelligent Development](./docs/intelligent-development.md): AI-augmented development methodology.
+- [References](./REFERENCES.md): links to technologies and videos associated with this work.
 
 ## Deterministic vs. Non-Deterministic Processing
 

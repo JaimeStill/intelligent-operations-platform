@@ -1,4 +1,6 @@
-# Intelligent Development: A Paradigm Shift in Software Engineering
+# Intelligent Development: A Paradigm Shift in Software engineering
+
+This development methodology has evolved through several iterations of attempting to workout an agentic AI-augmented development methodology. See [The Cognitive Velocity Paradox](./cognitive-velocity-paradox.md) for insights into experience that has helped shape it.
 
 ## The Fundamental Proverb
 

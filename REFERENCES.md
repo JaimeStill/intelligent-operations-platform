@@ -15,12 +15,16 @@
 - AI
   - [Anthropic](https://www.anthropic.com/)
   - [Claude Code](https://www.anthropic.com/claude-code)
+  - [OpenAI](https://openai.com/)
+  - [Google Gemini](https://gemini.google.com/)
+  - [Google AI Studio](https://aistudio.google.com/)
   - [Ollama](https://ollama.com/)
   - [Ollama Models](https://ollama.com/search)
   - [Ollama Open AI Compatibility](https://github.com/ollama/ollama/blob/main/docs/openai.md)
   - [AWS Bedrock](https://docs.aws.amazon.com/bedrock/)
+  - [GCP Vertex](https://cloud.google.com/vertex-ai/docs)
 
-- Linux
+- [Linux](https://www.linuxfoundation.org/)
   - [Omarchy](https://omarchy.org/)
     - [The Omarchy Manual](https://learn.omacom.io/2/the-omarchy-manual)
     - [Omakase Computing](https://learn.omacom.io/3/omacom/76/omakase-computing)
