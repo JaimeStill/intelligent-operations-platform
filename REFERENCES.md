@@ -1,0 +1,60 @@
+# References
+
+- [Google SRE Book - Eliminating Toil](https://sre.google/sre-book/eliminating-toil/)
+- [Go](https://go.dev/doc)
+  - [Why Go?](https://go.dev/solutions/)
+  - [Case Studies](https://go.dev/solutions/case-studies)
+  - [Using Go at Google](https://go.dev/solutions/google/)
+  - [Go By Example](https://gobyexample.com)
+  - [Effective Go](https://go.dev/doc/effective_go)
+  - Written in Go:
+    - [Docker](https://github.com/docker/cli)
+    - [Docker Compose](https://github.com/docker/compose)
+    - [Kubernetes](https://github.com/kubernetes/kubernetes)
+
+- AI
+  - [Anthropic](https://www.anthropic.com/)
+  - [Claude Code](https://www.anthropic.com/claude-code)
+  - [Ollama](https://ollama.com/)
+  - [Ollama Models](https://ollama.com/search)
+  - [Ollama Open AI Compatibility](https://github.com/ollama/ollama/blob/main/docs/openai.md)
+  - [AWS Bedrock](https://docs.aws.amazon.com/bedrock/)
+
+- Linux
+  - [Omarchy](https://omarchy.org/)
+    - [The Omarchy Manual](https://learn.omacom.io/2/the-omarchy-manual)
+    - [Omakase Computing](https://learn.omacom.io/3/omacom/76/omakase-computing)
+  - [Arch Linux](https://wiki.archlinux.org/title/Arch_Linux)
+    - [Arch Wiki](https://wiki.archlinux.org/title/Main_page)
+    - [Arch Compared to Other Distirbutions](https://wiki.archlinux.org/title/Arch_compared_to_other_distributions)
+  - [Hyprland](https://hypr.land/)
+
+- Open Standards
+  - [The Web Standards Model](https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Web_standards/The_web_standards_model)
+    - [HTML - WHATWG](https://whatwg.org/)
+    - [JavaScript - TC39](https://tc39.es/)
+    - [CSS - W3C](https://www.w3.org/groups/wg/css/)
+    - [HTTP - RCF 9110](https://www.rfc-editor.org/rfc/rfc9110.html)
+    - [WebSockets - IETF RFC6455](https://datatracker.ietf.org/doc/html/rfc6455)
+    - [gRPC](https://grpc.io/)
+  - [containerd](https://containerd.io/)
+  - [Cloud Native Computing Foundation](https://www.cncf.io/)
+  - [Open Container Initiative](https://opencontainers.org/release-notices/overview/)
+  - [OAuth](https://oauth.net/2/)
+  - [OpenID](https://openid.net/developers/discover-openid-and-openid-connect/)
+  - [JSON Web Tokens (JWT)](https://www.jwt.io/introduction#what-is-json-web-token)
+  - [OpenTelemetryu](https://opentelemetry.io/)
+  - [3D Graphics - Khronos Croup](https://www.khronos.org)
+  - [OpenAI API](https://platform.openai.com/docs/api-reference/introduction)
+  - [Agent2Agent](https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/)
+
+### Videos
+
+- [The Untold Story of Golang](https://www.youtube.com/watch?v=_nuUtmhaUEc)
+- [Go Concurrency Patterns](https://www.youtube.com/watch?v=f6kdp27TYZs&t=2443s)
+- [Mastering Claude Code in 30 Minutes](https://www.youtube.com/watch?v=6eBSHbLKuN0)
+- [NVIDIA Jetson AGX Thor Developer Kit](https://www.youtube.com/watch?v=iYT2haVIgSM)
+- [Dave's Garage: NVIDIA Jetson Orin Nano Super](https://youtu.be/QHBr8hekCzg?si=aD48qRBr6FQECXYf)
+- [The Physical Turing Test](https://www.youtube.com/watch?v=_2NijXqBESI)
+- [Omarchy Operating System](https://www.youtube.com/watch?v=TcHY0AEd2Uw)
+- [Containers from Scratch](https://youtu.be/8fi7uSYlOdc?si=sGrPgYaNzQkzBxsb)
